@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on thinking village</title>
-    <link>http://thinking-village.github.io/tags/</link>
+    <link>https://thinking-village.github.io/tags/</link>
     <description>Recent content in Tags on thinking village</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Jun 2020 14:25:49 +0800</lastBuildDate>
     
-	<atom:link href="http://thinking-village.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://thinking-village.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>me</title>
-      <link>http://thinking-village.github.io/tags/me/</link>
+      <link>https://thinking-village.github.io/tags/me/</link>
       <pubDate>Sun, 28 Jun 2020 14:25:49 +0800</pubDate>
       
-      <guid>http://thinking-village.github.io/tags/me/</guid>
+      <guid>https://thinking-village.github.io/tags/me/</guid>
       <description></description>
     </item>
     
