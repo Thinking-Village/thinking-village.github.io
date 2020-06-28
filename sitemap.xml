@@ -3,32 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/introduction/</loc>
+    <loc>http://thinking-village.github.io/posts/introduction/</loc>
     <lastmod>2020-06-28T14:25:49+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/me/</loc>
+    <loc>http://thinking-village.github.io/tags/me/</loc>
     <lastmod>2020-06-28T14:25:49+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://thinking-village.github.io/posts/</loc>
     <lastmod>2020-06-28T14:25:49+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://thinking-village.github.io/tags/</loc>
     <lastmod>2020-06-28T14:25:49+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://thinking-village.github.io/</loc>
     <lastmod>2020-06-28T14:25:49+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://thinking-village.github.io/categories/</loc>
   </url>
   
 </urlset>
